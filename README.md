@@ -18,7 +18,6 @@ A sleek and intelligent web app that helps you understand any GitHub repository 
 
 - **Frontend**: React + Vite + TypeScript  
 - **Styling**: Tailwind CSS, ShadCN/UI  
-- **Animation**: Framer Motion  
 - **API Integration**: GitHub REST API, OpenAI API (GPT-3.5/GPT-4)
 
 ---
